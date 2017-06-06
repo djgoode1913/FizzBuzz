@@ -3,7 +3,11 @@
 //  Created by DJ GOODEN on 6/6/17.
 //  Copyright © 2017 DJ GOODEN. All rights reserved.
 
-
+/* "Buzz" when F(n) is divisible by 3.
+ "Fizz" when F(n) is divisible by 5.
+ "FizzBuzz" when F(n) is divisible by 15.
+ "BuzzFizz" when F(n) is prime.
+ the value F(n) otherwise. */
 
 
 
